@@ -1,2 +1,3 @@
 SELECT *
-FROM   dual;
+FROM   dual
+WHERE  1 = 1;
